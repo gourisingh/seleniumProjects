@@ -1,0 +1,9 @@
+[INFO ] 2023-08-02 13:08:17.730 [main] log4jDemo - This is info message
+[ERROR] 2023-08-02 13:08:17.731 [main] log4jDemo - This is error message 
+[WARN ] 2023-08-02 13:08:17.732 [main] log4jDemo - This is warming message
+[FATAL] 2023-08-02 13:08:17.732 [main] log4jDemo - This is fatal message
+[TRACE] 2023-08-02 13:13:53.592 [main] log4jDemo - This is trace message
+[INFO ] 2023-08-02 13:13:53.594 [main] log4jDemo - This is info message
+[ERROR] 2023-08-02 13:13:53.595 [main] log4jDemo - This is error message 
+[WARN ] 2023-08-02 13:13:53.595 [main] log4jDemo - This is warming message
+[FATAL] 2023-08-02 13:13:53.595 [main] log4jDemo - This is fatal message
